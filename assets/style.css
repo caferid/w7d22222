@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.container-sekil {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+}
+
+.container {
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+}
+
+.row {
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+}
